@@ -1,1 +1,1 @@
-My LazyVim configs!
+# My LazyVim configs
